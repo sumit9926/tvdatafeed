@@ -1,9 +1,11 @@
 **TvDatafeed**
 A simple TradingView historical Data Downloader
 
-For instructions visit-
+For instructions watch this video-
 
-https://www.youtube.com/watch?v=qDrXmb2ZRjo
+[![Watch the video](https://img.youtube.com/vi/qDrXmb2ZRjo/maxresdefault.jpg)](https://youtu.be/qDrXmb2ZRjo)
+
+
 
 ---
 
