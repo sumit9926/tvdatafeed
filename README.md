@@ -2,6 +2,7 @@
 A simple TradingView historical Data Downloader
 
 For instructions watch this video-
+
 [![Watch the video](https://img.youtube.com/vi/qDrXmb2ZRjo/hqdefault.jpg)](https://youtu.be/qDrXmb2ZRjo)
 
 
